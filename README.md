@@ -11,5 +11,5 @@
 
 - 💬 Mais contatos no meu [Linkedin](https://www.linkedin.com/in/lucca-giordano-580b8a263/)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca-Giordano&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&hide=prs" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-Giordano&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca-Giordano&show_icons=true&theme=dracula&hide_border=true&hide=prs" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-Giordano&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
