@@ -1,4 +1,5 @@
-<p align="center"><a href="https://github.com/lucca-giordano"><img width="50%"src="https://octodex.github.com/images/NUX_Octodex.gif" /></a></p>
+# Olá, me chamo Lucca
+## Seja bem vindo ao meu perfil
 
 **Sobre mim**
 
