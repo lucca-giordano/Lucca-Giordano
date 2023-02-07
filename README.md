@@ -5,9 +5,9 @@
 
 - 💼 Estudande de Ciência da Cumputação na [FECAP](https://www.fecap.br/graduacao/ciencia-da-computacao/?utm_source=google&utm_medium=cpc&gclid=CjwKCAiAioifBhAXEiwApzCztuJcPgbWnQ30V9m1wBMGt0tULRn0tmBW22SDYus-ZaF-ozemw7AA_BoC6MwQAvD_BwE)
 
-- 📈 Novo no GitHub, iniciando minha carreira profissional
+- 📈 Novo no [GitHub](https://github.com/lucca-giordano), iniciando minha carreira profissional
 
-- ❤️ Apaixonado por Python
+- ❤️ Apaixonado por [Python](https://www.python.org)
 
 - 💬 Mais contatos no meu [Linkedin](https://www.linkedin.com/in/lucca-giordano-580b8a263/)
 
