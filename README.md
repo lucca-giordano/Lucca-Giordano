@@ -1,6 +1,4 @@
-<p align="center"><a href="https://github.com/lucca-giordano"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://octodex.github.com/images/NUX_Octodex.gif" /></a></p>
-
-<br />
+<p align="center"><a href="https://github.com/lucca-giordano"><img width="50%"src="https://octodex.github.com/images/NUX_Octodex.gif" /></a></p>
 
 **Sobre mim**
 
