@@ -1,5 +1,7 @@
-# Olá, me chamo Lucca
-## Seja bem vindo ao meu perfil
+<p align="center">
+ <h1 align="center">Olá, me chamo Lucca</h2>
+ <h2 align="center">Seja bem vindo ao meu perfil!</h2>
+</p>
 
 **Sobre mim**
 
