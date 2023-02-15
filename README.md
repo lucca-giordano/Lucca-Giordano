@@ -15,3 +15,5 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca-Giordano&show_icons=true&theme=dracula&hide_border=true&hide=prs&count_private=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-Giordano&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+TEste 3
