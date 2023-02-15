@@ -13,7 +13,7 @@
 
 - 💬 Mais contatos no meu [Linkedin](https://www.linkedin.com/in/lucca-giordano-580b8a263/)
 
-<h3 align="left">Ferramentas que eu conheço:</h3>
+<h3 align="left">Ferramentas que eu utilizo:</h3>
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
