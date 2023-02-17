@@ -25,5 +25,5 @@
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" width="40" height="38"/></a>
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca-Giordano&show_icons=true&theme=dracula&hide_border=true&hide=prs&count_private=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-Giordano&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca-Giordano&show_icons=true&theme=dracula&hide_border=true&hide=prs&count_private=true&title_color=F78166&icon_color=885053&text_color=C9D1D9&&theme=transparent" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-Giordano&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
