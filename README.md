@@ -25,6 +25,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca-Giordano&show_icons=true&hide_border=true&hide=prs&count_private=true&title_color=39ca52&icon_color=1c6ceb&text_color=C9D1D9&&theme=transparent" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-Giordano&layout=compact&text_color=C9D1D9&title_color=39ca52&theme=transparent&hide_border=true" /></a>
 
-<a align="center" href="http://www.github.com/lucca-giordano">
-    <img src="https://github-readme-streak-stats.Lucca-Giordano.com/?user=hiperesp&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a
+<a href="https://streak-stats.demolab.com/demo/">
+<img align="center" src="https://streak-stats.demolab.com?user=Lucca-Giordano&hide_border=true&border_radius=9&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=B7EB6A00&sideNums=32AC48&ring=1C6CEA&fire=32AC48&dates=C8D0D8&currStreakNum=32AC48&sideLabels=C8D0D8&currStreakLabel=32AC48&stroke=C8D0D8"/>
+</a>
+
