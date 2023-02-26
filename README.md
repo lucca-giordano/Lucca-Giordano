@@ -13,6 +13,8 @@
 
 - 💬 Mais contatos no meu [Linkedin](https://www.linkedin.com/in/lucca-giordano-580b8a263/)
 
+- 📟 Mais informações no meu perfil do [HackerRank](https://www.hackerrank.com/giordanolucca871)
+
 <h3 align="left">Ferramentas que eu utilizo:</h3>
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
