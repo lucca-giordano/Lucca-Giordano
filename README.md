@@ -25,4 +25,11 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="38"/></a>
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" width="40" height="38"/></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca-Giordano&show_icons=true&hide_border=true&hide=contribs&count_private=true&title_color=39ca52&icon_color=1c6ceb&text_color=C9D1D9&&theme=transparent" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-Giordano&layout=compact&text_color=C9D1D9&title_color=39ca52&theme=transparent&hide_border=true&hide=jupyter%20notebook&langs_count=6" /></a>
+<div>
+    <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca-Giordano&show_icons=true&hide_border=true&hide=contribs&count_private=true&title_color=39ca52&icon_color=1c6ceb&text_color=C9D1D9&&theme=transparent" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-Giordano&layout=compact&text_color=C9D1D9&title_color=39ca52&theme=transparent&hide_border=true&hide=jupyter%20notebook&langs_count=6" /></a>
+    </div>
+    <div align="center">
+    <a href="https://streak-stats.demolab.com/"> <img align="center" src="https://streak-stats.demolab.com?user=Lucca-Giordano&hide_border=true&border_radius=9&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=EBEBEB00&stroke=EBEBEB00&ring=39CA52&fire=E46105&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=1C6CEB&currStreakLabel=1C6CEB&dates=C9D1D9" />
+    </div>
+</div>
