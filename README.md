@@ -5,7 +5,7 @@
 
 **Sobre mim**
 
-- 💼 Estudande de Ciência da Cumputação na [FECAP](https://www.fecap.br/graduacao/ciencia-da-computacao/?utm_source=google&utm_medium=cpc&gclid=CjwKCAiAioifBhAXEiwApzCztuJcPgbWnQ30V9m1wBMGt0tULRn0tmBW22SDYus-ZaF-ozemw7AA_BoC6MwQAvD_BwE)
+- 💼 Estudante de Ciência da Cumputação na [FECAP](https://www.fecap.br/graduacao/ciencia-da-computacao/?utm_source=google&utm_medium=cpc&gclid=CjwKCAiAioifBhAXEiwApzCztuJcPgbWnQ30V9m1wBMGt0tULRn0tmBW22SDYus-ZaF-ozemw7AA_BoC6MwQAvD_BwE)
 
 - 📈 Novo no [GitHub](https://github.com/lucca-giordano), iniciando minha carreira profissional
 
