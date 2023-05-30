@@ -29,6 +29,6 @@
 
 <div>
     <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca-Giordano&show_icons=true&hide_border=true&hide=contribs&count_private=true&title_color=39ca52&icon_color=1c6ceb&text_color=C9D1D9&&theme=transparent" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-Giordano&layout=compact&text_color=C9D1D9&title_color=39ca52&theme=transparent&hide_border=true&hide=jupyter%20notebook&langs_count=6" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca-Giordano&show_icons=true&hide_border=true&hide=contribs&count_private=true&title_color=39ca52&icon_color=1c6ceb&text_color=C9D1D9&&theme=transparent" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-Giordano&layout=compact&text_color=C9D1D9&title_color=39ca52&theme=transparent&hide_border=true&hide=jupyter%20notebook,GDScript&langs_count=6" /></a>
     </div>
 </div>
